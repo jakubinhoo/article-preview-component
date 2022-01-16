@@ -181,6 +181,10 @@ main {
   max-height: 1px;
 }
 
+footer {
+  margin-top: 1rem;
+}
+
 @media screen and (max-width: 750px) {
   main {
     width: 21.25rem;
